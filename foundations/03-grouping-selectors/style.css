@@ -1,0 +1,9 @@
+.black-button {
+    color: white;
+    background-color: #000000;
+    font-weight: bold;
+}
+
+.yellow-button {
+    background-color: yellow;
+}
