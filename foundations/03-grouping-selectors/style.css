@@ -7,3 +7,8 @@
 .yellow-button {
     background-color: yellow;
 }
+
+.adjust-font {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
